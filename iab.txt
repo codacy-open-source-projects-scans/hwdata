@@ -7307,12 +7307,6 @@ CB0000-CB0FFF                 (base 16)                     Konsmetal S.A.
                                                             Warsaw    00-028
                                                             PL
 
-00-50-C2                      (hex)                         YOKOWO CO.,LTD
-CA5000-CA5FFF                 (base 16)                     YOKOWO CO.,LTD
-                                                            5-11 Takinogawa 7-Chome Kita-ku
-                                                            Tokyo    114-8515
-                                                            JP
-
 00-50-C2                      (hex)                         Kiefer technic GmbH
 CA0000-CA0FFF                 (base 16)                     Kiefer technic GmbH
                                                             Feldbacher Strasse 77
@@ -10541,6 +10535,12 @@ DAF000-DAFFFF                 (base 16)                     eumig industrie-TV G
                                                             Milton Keynes  Buckinghamshire  MK5 6LB
                                                             GB
 
+00-50-C2                      (hex)                         Aplex Technology Inc.
+DAB000-DABFFF                 (base 16)                     Aplex Technology Inc.
+                                                            15F-1, No.186, Jian Yi Road
+                                                            Zhonghe District  New Taipei City 235   -
+                                                            TW
+
 40-D8-55                      (hex)                         Aplex Technology Inc.
 00C000-00CFFF                 (base 16)                     Aplex Technology Inc.
                                                             15F-1, No.186, Jian Yi Road
@@ -10559,11 +10559,11 @@ E00000-E00FFF                 (base 16)                     Aplex Technology Inc
                                                             Zhonghe District  New Taipei City 235   -
                                                             TW
 
-00-50-C2                      (hex)                         Aplex Technology Inc.
-DAB000-DABFFF                 (base 16)                     Aplex Technology Inc.
-                                                            15F-1, No.186, Jian Yi Road
-                                                            Zhonghe District  New Taipei City 235   -
-                                                            TW
+00-50-C2                      (hex)                         YOKOWO CO., LTD.
+CA5000-CA5FFF                 (base 16)                     YOKOWO CO., LTD.
+                                                            5-11 Takinogawa 7-Chome Kita-ku
+                                                            Tokyo    114-8515
+                                                            JP
 
 00-50-C2                      (hex)                         Karl DUNGS GmbH & Co. KG
 7F9000-7F9FFF                 (base 16)                     Karl DUNGS GmbH & Co. KG
@@ -11020,12 +11020,6 @@ DE1000-DE1FFF                 (base 16)                     ABB Transmission and
                                                             1414 Soquel Ave, Ste 212
                                                             Santa Cruz  CA  95062
                                                             US
-
-40-D8-55                      (hex)                         Power Electronics Espana, S.L.
-102000-102FFF                 (base 16)                     Power Electronics Espana, S.L.
-                                                            Leonardo Da Vinci, 24-26
-                                                            Paterna  Valencia  46980
-                                                            ES
 
 00-50-C2                      (hex)                         RFL Electronics, Inc.
 ED5000-ED5FFF                 (base 16)                     RFL Electronics, Inc.
@@ -16286,14 +16280,14 @@ F16000-F16FFF                 (base 16)                     Peter Huber Kaeltema
                                                             Zhonghe District  New Taipei City 235   -
                                                             TW
 
-00-50-C2                      (hex)                         Aplex Technology Inc.
-B49000-B49FFF                 (base 16)                     Aplex Technology Inc.
+40-D8-55                      (hex)                         Aplex Technology Inc.
+18A000-18AFFF                 (base 16)                     Aplex Technology Inc.
                                                             15F-1, No.186, Jian Yi Road
                                                             Zhonghe District  New Taipei City 235   -
                                                             TW
 
-40-D8-55                      (hex)                         Aplex Technology Inc.
-18A000-18AFFF                 (base 16)                     Aplex Technology Inc.
+00-50-C2                      (hex)                         Aplex Technology Inc.
+B49000-B49FFF                 (base 16)                     Aplex Technology Inc.
                                                             15F-1, No.186, Jian Yi Road
                                                             Zhonghe District  New Taipei City 235   -
                                                             TW
@@ -16303,6 +16297,12 @@ B49000-B49FFF                 (base 16)                     Aplex Technology Inc
                                                             56, Avenue Raspail
                                                             Saint Maur
                                                             FR
+
+40-D8-55                      (hex)                         Power Electronics Espana, S.L.
+102000-102FFF                 (base 16)                     Power Electronics Espana, S.L.
+                                                            RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+                                                            LLÍRIA   Valencia  46160
+                                                            ES
 
 00-50-C2                      (hex)                         Timberline Manufacturing
 B5B000-B5BFFF                 (base 16)                     Timberline Manufacturing
@@ -21536,14 +21536,14 @@ DBA000-DBAFFF                 (base 16)                     Motor Protection Ele
                                                             Zhonghe District  New Taipei City 235   -
                                                             TW
 
-00-50-C2                      (hex)                         Aplex Technology Inc.
-F08000-F08FFF                 (base 16)                     Aplex Technology Inc.
+40-D8-55                      (hex)                         Aplex Technology Inc.
+060000-060FFF                 (base 16)                     Aplex Technology Inc.
                                                             15F-1, No.186, Jian Yi Road
                                                             Zhonghe District  New Taipei City 235   -
                                                             TW
 
-40-D8-55                      (hex)                         Aplex Technology Inc.
-060000-060FFF                 (base 16)                     Aplex Technology Inc.
+00-50-C2                      (hex)                         Aplex Technology Inc.
+F08000-F08FFF                 (base 16)                     Aplex Technology Inc.
                                                             15F-1, No.186, Jian Yi Road
                                                             Zhonghe District  New Taipei City 235   -
                                                             TW
@@ -22015,12 +22015,6 @@ FB7000-FB7FFF                 (base 16)                     Pounce Consulting
                                                             1414 Soquel Ave, Ste 212
                                                             Santa Cruz  CA  95062
                                                             US
-
-00-50-C2                      (hex)                         Power Electronics Espana, S.L.
-723000-723FFF                 (base 16)                     Power Electronics Espana, S.L.
-                                                            C/ Leonardo Da Vinci, 24-26
-                                                            Paterna  Valencia  46980
-                                                            ES
 
 00-50-C2                      (hex)                         WaveIP
 AC7000-AC7FFF                 (base 16)                     WaveIP
@@ -27379,3 +27373,9 @@ D11000-D11FFF                 (base 16)                     Aplex Technology Inc
                                                             15F-1, No.186, Jian Yi Road
                                                             Zhonghe District  New Taipei City 235   -
                                                             TW
+
+00-50-C2                      (hex)                         Power Electronics Espana, S.L.
+723000-723FFF                 (base 16)                     Power Electronics Espana, S.L.
+                                                            RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE
+                                                            LLÍRIA   Valencia  46160
+                                                            ES
